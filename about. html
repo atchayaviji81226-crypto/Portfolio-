@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me | Atchaya Viji</title>
+
+    <meta name="description"
+          content="Learn more about Atchaya Viji, education, experience and career goals.">
+</head>
+
+<body>
+
+<header>
+    <h1>About Me</h1>
+
+    <nav aria-label="Main Navigation">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html" aria-current="page">About</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+
+    <article>
+        <h2>Biography</h2>
+        <p>
+            I am a passionate student interested in web development,
+            database management, and software engineering.
+        </p>
+    </article>
+
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li>B.E. Computer Science</li>
+            <li>Web Development Certification</li>
+        </ul>
+    </section>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 Atchaya Viji</p>
+</footer>
+
+</body>
+</html>
