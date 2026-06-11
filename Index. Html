@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO Meta Tags -->
+    <title>Atchaya Viji | Portfolio Website</title>
+    <meta name="description"
+          content="Portfolio of Atchaya Viji showcasing skills, projects, education, and contact information.">
+    <meta name="keywords"
+          content="Portfolio, Web Developer, HTML5, CSS3, JavaScript, Student">
+    <meta name="author" content="Atchaya Viji">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Atchaya Viji Portfolio">
+    <meta property="og:description" content="Professional Portfolio Website">
+    <meta property="og:type" content="website">
+
+</head>
+
+<body>
+
+<header role="banner">
+    <h1>Atchaya Viji</h1>
+    <p>Web Developer | Student | Designer</p>
+
+    <nav aria-label="Main Navigation">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main id="main-content">
+
+    <section aria-labelledby="hero-heading">
+        <h2 id="hero-heading">Welcome to My Portfolio</h2>
+        <p>
+            I am passionate about web development and creating
+            accessible digital experiences.
+        </p>
+    </section>
+
+    <section aria-labelledby="skills-heading">
+        <h2 id="skills-heading">Skills</h2>
+
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+            <li>SQL</li>
+        </ul>
+    </section>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 Atchaya Viji. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
